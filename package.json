@@ -1,0 +1,23 @@
+{
+  "name": "greenkeeperpoc",
+  "version": "0.0.1",
+  "description": "POC for verifying greenkeeper integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxmil7/greenkeeperPOC.git"
+  },
+  "author": "maxmil7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxmil7/greenkeeperPOC/issues"
+  },
+  "homepage": "https://github.com/maxmil7/greenkeeperPOC#readme",
+  "dependencies": {
+    "@maxmil7/greenkeeper_mod": "0.0.1",
+    "tape": "^4.11.0"
+  }
+}
