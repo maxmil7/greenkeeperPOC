@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/maxmil7/greenkeeperPOC#readme",
   "dependencies": {
-    "@maxmil7/greenkeeper_mod": "0.0.1",
+    "@maxmil7/greenkeeper_mod": "^0",
     "tape": "^4.11.0"
   }
 }
