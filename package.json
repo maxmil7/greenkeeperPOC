@@ -18,6 +18,6 @@
   "homepage": "https://github.com/maxmil7/greenkeeperPOC#readme",
   "dependencies": {
     "@maxmil7/greenkeeper_mod": "0.0.6",
-    "tape": "^4.11.0"
+    "tape": "^4.12.0"
   }
 }
